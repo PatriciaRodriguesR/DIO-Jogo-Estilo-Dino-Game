@@ -16,7 +16,7 @@ Link para visualizar: [View Demo](https://PatriciaRodriguesR.github.io/DIO-Jogo-
 
 ---
 
-[![Computer](assets/Computer.gif)](https://github.com/PatriciaRodriguesR/DIO-Jogo-Estilo-Dino-Game)
+[![Computer](assets/computer.gif)](https://github.com/PatriciaRodriguesR/DIO-Jogo-Estilo-Dino-Game)
 
 ## ℹ️ Description
 
